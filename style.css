@@ -1,0 +1,44 @@
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling the header */
+.title {
+    text-align: center;
+    color: #007bff;
+    font-size: 2rem;
+    margin: 20px 0;
+}
+
+/* Paragraph Styling */
+.paragraph {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 10px;
+    border-left: 5px solid #007bff;
+}
+
+/* Image Styling */
+.styled-image {
+    display: block;
+    width: 300px;
+    height: auto;
+    margin: 20px auto;
+    border: 5px solid #007bff;
+    border-radius: 10px;
+}
+
+/* Footer Styling */
+#footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    margin-top: 20px;
+}
